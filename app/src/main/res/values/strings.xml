@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formula1Apps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CheckYourInternetConnection">Lütfen bağlantınızı kontrol edin</string>
+    <string name="somethingWentWrong">Someting Went Wrong</string>
+    <string name="todo">TODO</string>
+    <string name="age">Yaş :</string>
+    <string name="team">Takım :</string>
+</resources>
